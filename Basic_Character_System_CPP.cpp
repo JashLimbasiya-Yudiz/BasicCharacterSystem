@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    Game g;
+    Game game;
+    game.Play();
     return 0;
 }

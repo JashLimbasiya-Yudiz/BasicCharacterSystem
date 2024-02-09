@@ -14,7 +14,8 @@ using namespace std;
 
 class Game{
     public:
-        Game(){
+    
+        void Play(){
             while(true){
                 next:
                 int option;
